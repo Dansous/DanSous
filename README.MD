@@ -20,7 +20,7 @@
 
 <br><br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## 💻  &nbsp;Social Links
 
 <p align="left" style="background:yellow">
 <a href="https://twitter.com/DaniloSous_" target="_blank">
